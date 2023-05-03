@@ -1,16 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[15]:
-
-
 import requests
 from wordcloud import WordCloud
 from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
-
-
-# In[16]:
 
 
 def Topnews():
@@ -59,22 +50,10 @@ def Topnews():
     plt.show()
 
 
-# In[17]:
-
-
 if __name__ == '__main__':
     
     # Function call
     Topnews()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
