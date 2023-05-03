@@ -16,9 +16,9 @@ import matplotlib.pyplot as plt
 def Topnews():
     # API keys for multiple news sources
     api_keys = {
-        "bbc": "509ca54a17e9429b8b7cc33cc1c50aa3",
-        "cnn": "509ca54a17e9429b8b7cc33cc1c50aa3",
-        "ap": "509ca54a17e9429b8b7cc33cc1c50aa3"
+        "bbc": "509ca54a17xxxxxxxxx",
+        "cnn": "509ca54a17xxxxxxxxx",
+        "ap": "509ca54a17xxxxxxxxx"
     }
     
     # URLs for multiple news sources
